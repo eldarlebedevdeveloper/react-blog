@@ -1,6 +1,9 @@
 Command for start json-server
 npx json-server -p 3500 -w data/db.json
 
+Install react-icons
+npm i react-icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
