@@ -4,6 +4,12 @@ npx json-server -p 3500 -w data/db.json
 Install react-icons
 npm i react-icons
 
+Uninstall libraries
+npm uninstall @testing-library/jest-dom @testing-library/react @testing-library/user-event web-vitals
+
+Install easy peasy librarie
+npm i easy-peasy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
