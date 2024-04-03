@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+
 const Missing = () => {
   return (
     <main className="Missing">
@@ -10,4 +11,5 @@ const Missing = () => {
     </main>
   )
 }
+
 export default Missing
